@@ -1,0 +1,17 @@
+{
+    "description": "Projeto ADM",
+    "authors": [
+        {
+            "name": "caetano augusto de matos",
+            "email": "caeaugusto1302@gmail.com"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "Core\\":"core",
+            "App\\":"app/",
+            "Adms\\":"app/adms"
+        }
+    }
+}
